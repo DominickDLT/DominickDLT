@@ -40,7 +40,9 @@ CAD modeling and mechanical subsystem integration for a team-built quadcopter wi
 ## 🧰 Skills & Tools
 
 **Engineering Software:** SolidWorks · ANSYS Fluent · XFLR5 · MATLAB · OpenRocket
+
 **Programming:** Python · MATLAB · C · Arduino
+
 **Engineering:** Mechanical Design · CAD Modeling · CFD · Orbital Mechanics · System Integration
 
 ---
