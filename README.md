@@ -35,6 +35,14 @@ Fully parametric 23-component turbofan engine assembled in SolidWorks, integrati
 CAD modeling and mechanical subsystem integration for a team-built quadcopter with UCF AIAA.
 `solidworks` `mechanical-integration`
 
+### 🤖 Autonomous & Robotic System Research
+Designed and tested an integrated electromechanical system combining sensors, mechanical hardware, and Arduino microcontrollers, developing signal based control logic for autonomous behavior and refining performance through iterative testing and debugging. 
+`arduino` `embedded systems` `controls`
+
+### 🧪 Engineering Laboratory Research Student
+Conducted controlled dynamics experiments measuring position, velocity, and acceleration validated against theoretical predictions, and designed and tested load-bearing structures, comparing measured force distributions to statics theory.
+`experimental-testing` `data-analysis` `statics`
+
 ---
 
 ## 🧰 Skills & Tools
