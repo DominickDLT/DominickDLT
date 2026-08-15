@@ -30,6 +30,10 @@ Team project (EAS 3530 – Space Systems Concepts). Defined mission requirements
 Comparative aerodynamic study of rectangular and tapered NACA 2415 wings (AR 5–15, taper ratios 0.2–1.0) using lifting-line theory in XFLR5, plus 2D CFD simulations (flat plate, cylinder, and airfoil) in ANSYS Fluent validated against theory.
 `xflr5` `ansys-fluent` `cfd` `aerodynamics`
 
+### 🌊 2D CFD Flow Analysis — Flat Plate & Cylinder
+Simulated boundary layer development over a flat plate and flow over a cylinder (inviscid, laminar, and turbulent) in ANSYS Fluent, validating wall shear stress, drag coefficients, and wake behavior against theoretical and experimental data.
+`ansys-fluent` `cfd` `fluid-mechanics`
+
 ### 🔥 High-Power Rocket Propulsion and Flight Systems
 Designed, built, and launched a high-power rocket to a measured apogee of ~2,000 ft. NAR Level 1 certified, Level 2 in progress. Full design-build-test-launch lifecycle including propulsion, structural, and recovery subsystem integration.
 `propulsion` `openrocket` `flight-testing`
