@@ -13,6 +13,12 @@ Aerospace Engineering student at the University of Central Florida, focused on p
 - **CFD & aerodynamics** — wing and airfoil analysis in XFLR5 and ANSYS Fluent
 - **Mechanical design** — parametric CAD in SolidWorks, from turbofan engines to high-power rockets
 
+## 💼 Experience
+
+**Research Assistant** — Materials Engineering Research Lab, UCF *(Jan 2025 – May 2025)*
+Assisted a PhD researcher with experimental testing on lithium-based energy systems under varying electrical loading conditions, observing test setup and procedure and contributing to data collection and processing as needed.
+`experimental-testing` `data-analysis` `lithium-energy-systems`
+
 ## 🛠️ Featured Projects
 
 ### 🌙 Lunar Rover Space Systems Design
@@ -32,7 +38,7 @@ Fully parametric 23-component turbofan engine assembled in SolidWorks, integrati
 `solidworks` `parametric-cad`
 
 ### 🚁 AIAA Quadcopter Project
-CAD modeling and mechanical subsystem integration for a team-built quadcopter with UCF AIAA.
+Attended regular team meetings and contributed to SolidWorks CAD modeling and mechanical assembly for a team-built quadcopter, supporting design and build phases of the project.
 `solidworks` `mechanical-integration`
 
 ### 🤖 Autonomous & Robotic System Research
