@@ -16,6 +16,7 @@ Aerospace Engineering student at the University of Central Florida, focused on p
 ## 💼 Experience
 
 **Research Assistant** — Materials Engineering Research Lab, UCF *(Jan 2025 – May 2025)*
+
 Assisted a PhD researcher with experimental testing on lithium-based energy systems under varying electrical loading conditions, observing test setup and procedure and contributing to data collection and processing as needed.
 `experimental-testing` `data-analysis` `lithium-energy-systems`
 
