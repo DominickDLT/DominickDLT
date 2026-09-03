@@ -23,11 +23,11 @@ Assisted a PhD researcher with experimental testing on lithium-based energy syst
 ## 🛠️ Featured Projects
 
 ### 🛰️ Orbital Mission Analysis & Simulation Tool
-Independent project. Built a modular Python-based orbital mechanics simulation tool featuring 2D/3D orbit propagation, COE–state vector conversions, Hohmann transfers, ECI-to-ECEF ground track generation, and Earth–Moon Lagrange point calculations, with interactive visualizations for spacecraft trajectories and mission parameters.
+Built a modular Python-based orbital mechanics simulation tool featuring 2D/3D orbit propagation, COE–state vector conversions, Hohmann transfers, ECI-to-ECEF ground track generation, and Earth–Moon Lagrange point calculations, with interactive visualizations for spacecraft trajectories and mission parameters.
 `python` `numpy` `matplotlib` `orbital-mechanics`
 
 ### 🌙 Lunar Rover Space Systems Design
-Team project (EAS 3530 – Space Systems Concepts). Defined mission requirements and CONOPS for an autonomous lunar rover, selected a Near Rectilinear Halo Orbit (NRHO) communications relay architecture, closed an Earth–Moon X-band link budget (18.4 dB margin), and sized power, thermal, and C&DH subsystems for a 60-day mission.
+Defined mission requirements and CONOPS for an autonomous lunar rover, selected a Near Rectilinear Halo Orbit (NRHO) communications relay architecture, closed an Earth–Moon X-band link budget (18.4 dB margin), and sized power, thermal, and C&DH subsystems for a 60-day mission.
 `orbital-mechanics` `systems-engineering` `link-budget`
 
 ### 🔥 High-Power Rocket Propulsion and Flight Systems
