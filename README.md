@@ -1,73 +1,131 @@
-# Hi, I'm Dominick De La Torre
+# Hi, I'm Dominick De La Torre 👋
 
-Aerospace Engineering student at the University of Central Florida, focused on propulsion, CFD, and spacecraft systems design.
+I'm an Aerospace Engineering student at the **University of Central Florida** interested in spacecraft systems, orbital mechanics, aerospace vehicle design, and computational engineering.
 
-📍 Orlando, FL   |   🎓 B.S. Aerospace Engineering, UCF — Expected May 2027
+📍 Orlando, FL &nbsp; | &nbsp; 🎓 B.S. Aerospace Engineering, UCF — Expected May 2027  
 🔗 [LinkedIn](https://www.linkedin.com/in/dominick-de-la-torre)
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 About Me
 
-- **Spacecraft systems engineering** — mission requirements, orbital mechanics, link budgets, and subsystem design for a lunar rover concept
-- **CFD & aerodynamics** — wing and airfoil analysis in XFLR5 and ANSYS Fluent
-- **Mechanical design** — parametric CAD in SolidWorks, from turbofan engines to high-power rockets
+I enjoy applying aerospace engineering theory to hands-on and computational projects spanning **spacecraft mission analysis, aerodynamics, propulsion, CFD, and mechanical design**.
 
-## 💼 Experience
+My projects have included developing an orbital mission-analysis tool in Python, designing spacecraft subsystems for a lunar rover mission, designing and flight-testing a high-power rocket, performing aerodynamic analysis in ANSYS Fluent and XFLR5, and developing mechanical assemblies in SolidWorks.
 
-**Research Assistant** — Materials Engineering Research Lab, UCF *(Jan 2025 – May 2025)*
+I'm particularly interested in projects that connect engineering analysis and simulation with real aerospace systems.
 
-Assisted a PhD researcher with experimental testing on lithium-based energy systems under varying electrical loading conditions, observing test setup and procedure and contributing to data collection and processing as needed.
-`experimental-testing` `data-analysis` `lithium-energy-systems`
+---
 
 ## 🛠️ Featured Projects
 
 ### 🛰️ Orbital Mission Analysis & Simulation Tool
-Built a modular Python-based orbital mechanics simulation tool featuring 2D/3D orbit propagation, COE–state vector conversions, Hohmann transfers, ECI-to-ECEF ground track generation, and Earth–Moon Lagrange point calculations, with interactive visualizations for spacecraft trajectories and mission parameters.
-`python` `numpy` `matplotlib` `orbital-mechanics`
+
+Developing an independent Python-based orbital mechanics and mission-analysis tool featuring:
+
+- 2D and 3D Earth-centered orbit simulation
+- Classical Orbital Element (COE) ↔ state vector conversions
+- Hohmann transfer analysis
+- ECI-to-ECEF coordinate transformations
+- Spacecraft ground-track generation
+- Earth–Moon Lagrange point calculations
+- Interactive engineering visualizations
+
+**Tools:** `Python` `NumPy` `Matplotlib` `Orbital Mechanics`
+
+---
+
+### 🚀 High-Power Rocket Design, Analysis & Flight Testing
+
+Designed, analyzed, fabricated, and flight-tested a high-power rocket through a complete engineering development workflow:
+
+**OpenRocket → SolidWorks CAD → SolidWorks Flow Simulation → Fabrication → Launch & Recovery**
+
+- Modeled vehicle stability and flight performance in OpenRocket
+- Designed rocket components and vehicle geometry in SolidWorks
+- Performed external aerodynamic analysis using SolidWorks Flow Simulation
+- Evaluated a **2.42-caliber stability margin**
+- Predicted **1,706 ft apogee** and **Mach 0.357 maximum velocity**
+- Fabricated, assembled, launched, and successfully recovered the vehicle
+- Earned **NAR Level 1 High-Power Rocketry Certification**
+
+**Tools:** `OpenRocket` `SolidWorks` `Flow Simulation` `CAD` `CFD` `Flight Testing`
+
+---
 
 ### 🌙 Lunar Rover Space Systems Design
-Defined mission requirements and CONOPS for an autonomous lunar rover, selected a Near Rectilinear Halo Orbit (NRHO) communications relay architecture, closed an Earth–Moon X-band link budget (18.4 dB margin), and sized power, thermal, and C&DH subsystems for a 60-day mission.
-`orbital-mechanics` `systems-engineering` `link-budget`
 
-### 🔥 High-Power Rocket Propulsion and Flight Systems
-Designed, built, and launched a high-power rocket to a measured apogee of ~2,000 ft. NAR Level 1 certified, Level 2 in progress. Full design-build-test-launch lifecycle including propulsion, structural, and recovery subsystem integration.
-`propulsion` `openrocket` `flight-testing`
+Developed a conceptual spacecraft architecture for an autonomous lunar rover mission as part of a two-person engineering team.
 
-### ⚙️ Turbofan Engine Mechanical Design
-Fully parametric 23-component turbofan engine assembled in SolidWorks, integrating compressor, combustor, turbine, and nozzle subsystems with supporting engineering drawings and design calculations.
-`solidworks` `parametric-cad`
+- Defined mission requirements and concept of operations (CONOPS)
+- Developed functional requirements decomposition
+- Selected a **Near Rectilinear Halo Orbit (NRHO)** communications relay architecture
+- Closed an Earth–Moon **X-band communications link budget with 18.4 dB margin**
+- Performed power, thermal, and command-and-data-handling subsystem sizing
+- Developed subsystem requirements for a **60-day lunar mission**
+
+**Tools:** `Systems Engineering` `Link Budgets` `Spacecraft Systems` `Orbital Mechanics`
+
+---
 
 ### ✈️ Aerodynamic & CFD Analysis of Wings and Airfoils
-Comparative aerodynamic study of rectangular and tapered NACA 2415 wings (AR 5–15, taper ratios 0.2–1.0) using lifting-line theory in XFLR5, plus 2D CFD simulations (flat plate, cylinder, and airfoil) in ANSYS Fluent validated against theory.
-`xflr5` `ansys-fluent` `cfd` `aerodynamics`
 
-### 🌊 2D CFD Flow Analysis — Flat Plate & Cylinder
-Simulated boundary layer development over a flat plate and flow over a cylinder (inviscid, laminar, and turbulent) in ANSYS Fluent, validating wall shear stress, drag coefficients, and wake behavior against theoretical and experimental data.
-`ansys-fluent` `cfd` `fluid-mechanics`
+Analyzed rectangular and tapered **NACA 2415 wings** using analytical methods, XFLR5, and ANSYS Fluent.
 
-### 🚁 AIAA Quadcopter Project
-Attended regular team meetings and contributed to SolidWorks CAD modeling and mechanical assembly for a team-built quadcopter, supporting design and build phases of the project.
-`solidworks` `mechanical-integration`
+- Evaluated aspect ratios from **5–15**
+- Evaluated taper ratios from **0.2–1.0**
+- Compared lift-curve slope and Oswald efficiency with theoretical predictions
+- Performed ANSYS Fluent analysis at **Re = 1,000,000**
+- Compared CFD results with XFLR5 predictions across angle of attack
+- Recommended an **AR 10, taper ratio 0.6** configuration based on aerodynamic performance and manufacturability
 
-### 🤖 Autonomous & Robotic System Research
-Designed and tested an integrated electromechanical system combining sensors, mechanical hardware, and Arduino microcontrollers, developing signal based control logic for autonomous behavior and refining performance through iterative testing and debugging. 
-`arduino` `embedded systems` `controls`
+**Tools:** `ANSYS Fluent` `XFLR5` `CFD` `Aerodynamics`
 
-### 🧪 Engineering Laboratory Research Student
-Conducted controlled dynamics experiments measuring position, velocity, and acceleration validated against theoretical predictions, and designed and tested load-bearing structures, comparing measured force distributions to statics theory.
-`experimental-testing` `data-analysis` `statics`
+---
+
+### ⚙️ Turbofan Engine Mechanical Design
+
+Designed and assembled a **23-component turbofan engine model in SolidWorks** to develop experience with complex aerospace mechanical assemblies.
+
+The model integrates the major turbofan sections, including:
+
+- Fan
+- Compressor
+- Combustion section
+- Turbine
+- Exhaust/nozzle
+
+Developed the assembly using parametric part modeling, repeated blade geometry, assembly mates, and mechanical constraints.
+
+**Tools:** `SolidWorks` `Parametric CAD` `Mechanical Design` `Assembly Modeling`
+
+---
+
+## 🔬 Engineering Experience
+
+### Research Assistant — Materials Engineering Research Lab, UCF
+*January 2025 – May 2025*
+
+Supported experimental research involving lithium-based energy systems under varying electrical loading conditions, contributing to experimental testing and data collection/processing.
+
+**Skills:** `Experimental Testing` `Data Analysis` `Laboratory Research`
 
 ---
 
 ## 🧰 Skills & Tools
 
-**Engineering Software:** SolidWorks · ANSYS Fluent · XFLR5 · MATLAB · OpenRocket
+### Engineering Software
+`SolidWorks` · `ANSYS Fluent` · `XFLR5` · `MATLAB` · `OpenRocket`
 
-**Programming:** Python · MATLAB · C · Arduino
+### Programming & Scientific Computing
+`Python` · `NumPy` · `Matplotlib` · `MATLAB` · `C` · `Arduino`
 
-**Engineering:** Mechanical Design · CAD Modeling · CFD · Orbital Mechanics · System Integration
+### Engineering
+`Orbital Mechanics` · `Spacecraft Systems` · `Mechanical Design` · `CAD` · `CFD` · `Aerodynamics` · `System Integration` · `Experimental Testing`
 
 ---
 
-📫 Reach me at dominickprime2@gmail.com
+## 📫 Contact
+
+**Email:** dominickprime2@gmail.com  
+**LinkedIn:** [linkedin.com/in/dominick-de-la-torre](https://www.linkedin.com/in/dominick-de-la-torre)
