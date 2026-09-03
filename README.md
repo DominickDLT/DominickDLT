@@ -22,17 +22,13 @@ Assisted a PhD researcher with experimental testing on lithium-based energy syst
 
 ## 🛠️ Featured Projects
 
+### 🛰️ Orbital Mission Analysis & Simulation Tool
+Independent project. Built a modular Python-based orbital mechanics simulation tool featuring 2D/3D orbit propagation, COE–state vector conversions, Hohmann transfers, ECI-to-ECEF ground track generation, and Earth–Moon Lagrange point calculations, with interactive visualizations for spacecraft trajectories and mission parameters.
+`python` `numpy` `matplotlib` `orbital-mechanics`
+
 ### 🌙 Lunar Rover Space Systems Design
 Team project (EAS 3530 – Space Systems Concepts). Defined mission requirements and CONOPS for an autonomous lunar rover, selected a Near Rectilinear Halo Orbit (NRHO) communications relay architecture, closed an Earth–Moon X-band link budget (18.4 dB margin), and sized power, thermal, and C&DH subsystems for a 60-day mission.
 `orbital-mechanics` `systems-engineering` `link-budget`
-
-### ✈️ Aerodynamic & CFD Analysis of Wings and Airfoils
-Comparative aerodynamic study of rectangular and tapered NACA 2415 wings (AR 5–15, taper ratios 0.2–1.0) using lifting-line theory in XFLR5, plus 2D CFD simulations (flat plate, cylinder, and airfoil) in ANSYS Fluent validated against theory.
-`xflr5` `ansys-fluent` `cfd` `aerodynamics`
-
-### 🌊 2D CFD Flow Analysis — Flat Plate & Cylinder
-Simulated boundary layer development over a flat plate and flow over a cylinder (inviscid, laminar, and turbulent) in ANSYS Fluent, validating wall shear stress, drag coefficients, and wake behavior against theoretical and experimental data.
-`ansys-fluent` `cfd` `fluid-mechanics`
 
 ### 🔥 High-Power Rocket Propulsion and Flight Systems
 Designed, built, and launched a high-power rocket to a measured apogee of ~2,000 ft. NAR Level 1 certified, Level 2 in progress. Full design-build-test-launch lifecycle including propulsion, structural, and recovery subsystem integration.
@@ -41,6 +37,14 @@ Designed, built, and launched a high-power rocket to a measured apogee of ~2,000
 ### ⚙️ Turbofan Engine Mechanical Design
 Fully parametric 23-component turbofan engine assembled in SolidWorks, integrating compressor, combustor, turbine, and nozzle subsystems with supporting engineering drawings and design calculations.
 `solidworks` `parametric-cad`
+
+### ✈️ Aerodynamic & CFD Analysis of Wings and Airfoils
+Comparative aerodynamic study of rectangular and tapered NACA 2415 wings (AR 5–15, taper ratios 0.2–1.0) using lifting-line theory in XFLR5, plus 2D CFD simulations (flat plate, cylinder, and airfoil) in ANSYS Fluent validated against theory.
+`xflr5` `ansys-fluent` `cfd` `aerodynamics`
+
+### 🌊 2D CFD Flow Analysis — Flat Plate & Cylinder
+Simulated boundary layer development over a flat plate and flow over a cylinder (inviscid, laminar, and turbulent) in ANSYS Fluent, validating wall shear stress, drag coefficients, and wake behavior against theoretical and experimental data.
+`ansys-fluent` `cfd` `fluid-mechanics`
 
 ### 🚁 AIAA Quadcopter Project
 Attended regular team meetings and contributed to SolidWorks CAD modeling and mechanical assembly for a team-built quadcopter, supporting design and build phases of the project.
